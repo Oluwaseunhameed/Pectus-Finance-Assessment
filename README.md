@@ -1,46 +1,33 @@
-# Getting Started with Create React App
+# Pectus Finance Expanses Assessment
+Bootstraped with React/Typescript and Styled-Component 
+## Assessment Screenshot
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**All Expanses Table**
 
-## Available Scripts
+Here, you can sort the table by clicking any of the header title in ascending or descending order
+![All Expanses Table](https://doc-0c-5s-docs.googleusercontent.com/docs/securesc/rk18ha7stneh5scjfvp158aiqa8ggqaq/d5c52bb3lo7do1cpq9nhj2gbp7lnreri/1653664725000/09075024321638582299/09075024321638582299/1Ub4vmLMaP2FZoybttjFmj5_06ufkdblr?e=download&ax=ACxEAsbLGsK-Lzb4WmKpbaqjq49Xxbpk_OyD8Ozj5UxahpDaeOPYTZ8giIK05N2XoTHWKz5HawLkRtsstFKXlJ6uDw2yYgOCTOPW4jSUjiHT6Z1Z1nVisnjd_hCvu5QNSSIOwUSviatq8Yahn6Z8aONaclgQAt11j1T5wmnC1z9PiBMHx4IUHqx4UFR9rVJVAJ6mCntJt0TMJocf3LFlJvHrcwVoygdGzaFBL4ZyPwEoV92RgGuXszeG0OnmPGkB-X_F9da4lVvPtmSNQ1sxH1ge-7M2xfqVXzHZ6xdRVsdOJaRgXM1dULxM2mvr7AawofVgI6aSkjzAKzQvM_8Orqay0jPGLoCRVW0HtF7GFscKK0Y3US_96JMsig0k-SBaOMMVoeRKA8L_wX3qPzcC51gyiGfZVuqdKCyQ-tpU0CYyGaV1-Wfp0AifUCCuXq_ceybFLGcVEXYh4Sftyo4kvaN-AUsGfW_3wL2UJ6e4Zgof_CZtsP5DT_bdD0focmegPG958SeX_UXiBvhrDQS2HWQuoJKMCORkMTqhVMsmn7z93HZqnRkyT3j0Omg_B3Q5M4-1QUHh4Nl4OUqGO6nwUw0ASq6lQKB2EYwnK7NUd_QqP4nkncZa8AcIBqDBJQKHlXZ32UYx8u4nmxbaIJRestfqZJPDR-KTsyVm92bEHByJ8BcJdDrye4nh1FnxjuQjX5wDuaw-uZPZsN7TvYczpVqQ33X420wXpjKgQhGN9O5lpGFaAvhI&authuser=0)
 
-In the project directory, you can run:
+**Expanses By Departments**
 
-### `npm start`
+Here, you can filter by department
+![Departments Expanses](https://doc-04-5s-docs.googleusercontent.com/docs/securesc/rk18ha7stneh5scjfvp158aiqa8ggqaq/re6m2m5iadd2pf3hgb3u8uiu567v3nd3/1653665325000/09075024321638582299/09075024321638582299/11dSLdRSVO1PoU1Kegtrs7Bg88-fz9OWU?e=download&ax=ACxEAsYDy32aPypjj2js-YxH8lVeDKrP1N66wDuMeKIgkIOd-zjojtZhvLGJFPwI1iDkydVW_82pvhugD8OZClapWyHDVlCZfDZQl53v56XhNS9dmnMT9PvX35g0jNGTLJciaPBEBytZNZBtK-Sj-AV_zfHPoxyFvqsO_7rySpIKFhg09Se3o-ac_Y_HLudSv6VepsEbXliI7LBSnWDudveSF0oToUgW4y0zAFuStFoZvvBl5wpd267lrKWYVa16z0WcKsI54sb_CSOukE7vI2cG39UhLu9dCx96LYgpeNJBW_MaGrwfJD-Es86P1SAcENnY2f_Rlv_V-gGVa_8kEgAz3OY4XFNxBIVEbVaw4LDWYGcLZPP7H1pUbSTytBqO4EA7UZdI40Q5j7aJ8gKsj_7AZlbUS0gwsLfBIiDEOYpr1sO26C4O5XRIyBzyr1xgHujXs8W5FFXp4zcXwy21TZ3Lhu-J7pJMyv3FE3dTuU9WmHeyV-AlWqOh5IAEvlO9L298fCJDGzXneTMbjgIm-_ILy3fIffr4T6N0DkUYkqVm2AmZGOMfm3TklRYqDxM8ipm-7Z_C0fYRcQosEXI9mM6Hsf5ScJyQ2jYsfmDNZuUu6Lyb29xl2bFYo8Z1KizVNFzN9B6cW-obJnHQeHTsjSXpIUAhTiJu8qXCnMKwv6WDVrZT64Q2GxhIlHBusLmB9UKM9Mg7RsZVrj72zHM-sNZL02naXNcVZOTwYmQSjMGSf7ns2gSk&authuser=0)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**Expanses By Project Name**
+Filter by Project Name
+![Expanses By Project Name](https://doc-0s-5s-docs.googleusercontent.com/docs/securesc/rk18ha7stneh5scjfvp158aiqa8ggqaq/673lm1f9l515uo7bvfrn32it0hsclh8n/1653665475000/09075024321638582299/09075024321638582299/1j102qw4QDS3d6tsEIeUFastnwZr4cq3M?e=download&ax=ACxEAsZEqlIbZ7oGloaXlkaNeOqll8y5iA9gelcRPS447li-Cr-28lzVsfv2aCmzDdmWPAhZpj4Eg9iIf9Yj4LAHJdmESgB5h02XF25Er-qe_dJ4vubaZSwPqE2_MgdMHGzrp-WAtcpHknfDdoQ3wCIasnr8YASRJQkexuU9_yy5sG1PO5I07ALP2TcNbsWXS9XSXqd3hsQdWc-C9NrDnbTKr6tcjn-w3a75x-cwZVxMMRqeaw8YYnaVXAvzpm8aDRX2wzoElqG9-4nD37pPgEanoq01Uhyq0s47cjZquIhFwxZKrH5libmd2d_upwQEYEVdOc5zkbPd4SZyyxXXvFCmealUfh9mWIbokyrq27mqA3ez_EG0ryK7zJG6gvAQdLhi8ONs7E-L69bauOkC8s16-CN2gZetv6VcfzBuRYi6bthmODWb8yIt1BsVrHNf-ot3RRDB379Z_RY_rF8pR5eVEQOcLGpF3IQyJFAf10Q-QCVVaNI63ujV4JGukzRIn3cUi41C5eVpDELpBVYST-YRjDQiHXz6tYUOyS30fhbblY0wCtDZF73lPflggimjwRZkxj5cH5KHjQV3SwEkLzvguZGtAXQUPrjPMAm2wVQH7eUuHfaaUtRlSvW7ZEAotfUNu1YbHMGe045d4H-mtufWL_o1k_ZyjqViB6uG7_LzdTwGBWQIy-g0QC4keQd4QFQdr2Ci6UEJtbonLyzWYCaQoaamudHP9e0vWBv7LReHKalUMJ5R&authuser=0)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+**Expanses By Name**
+Filter by Name
+![Expanses by name](https://doc-08-5s-docs.googleusercontent.com/docs/securesc/rk18ha7stneh5scjfvp158aiqa8ggqaq/5jt692feqsao1ubrm1n0f9mevu6m8der/1653665550000/09075024321638582299/09075024321638582299/1Sd_u2Lk92ZbLMWswTTsilxZpnzx5DeO8?e=download&ax=ACxEAsYzCoBDifTWrCNojrC918xXro44uRn-UBHK6g9ri7RYGWiTvmvuInAMYxK4syTbsCVvB710B1FRVWq2jHH80nFWmQORZ4kVCpdNnkziGeSaLYMa2JOCKGsGH6lsgdBQe4QqI-0bT8qZIlJFAPhhVr9G9hMtoCmSl1awhU3rxbnGLo3jJEzcGnf5jaXY8D6x5AtrHStuj5NSowYVAVTWg0vA69UOEimXo9aOjm9bAjVty1th3AtZ9UwSMtIFf8QjOiLf9pd4yHHu4D-_Xq2pp0_EiCBq4dLhdbCDSrkAjXzvjyGF4HhUM-cGFMwO2AoZqJXmXG2BKTUIevaUSwJyvgS7NCmDERr4GOWtioq1GPrTTeKhKO1WlqJzhTl3WYb28J2B8F_CFom4DCKtMvsPNCJO63HRI68A9wBL15iAwxcKfpnOVZNKiEBVvd1H5mI9Z2rnx4gqYptF0rVA4l_6icy4XnO8QBXOMRIPOasThBccAnOsABJcQkcL539mdrgI8RYQOqqV5f_Tao2jPeaCEuHNsyY2tDxeH-kw9mo7UhhTsHfqYcbS2CFBfQehhTJeOR512oevNl4rYus3hCCkBJe6nTyCUUZGqmap26K4nRO-xKD0wKFBaQ50wLFhMDRcKR0EQ7QmoR9tc9WjI8LUXg6i_nkIobkAKySr6Wq2f2uLXE-6-rKN1Si2KOXQbPdWsVBSBCBZzi6R47gjD5jAO-BdaSMXnHv0LTbpFkIfhScXDmWc&authuser=0&nonce=gmc631r3prf08&user=09075024321638582299&hash=digrge71968cam4adqn4dhabk7vntlu4)
 
-### `npm test`
+**Expanses By Date**
+Filter by Date
+![Expanses By Date](https://doc-0g-5s-docs.googleusercontent.com/docs/securesc/rk18ha7stneh5scjfvp158aiqa8ggqaq/l81u9tbec2j10b2ge51bq6nrjrm7d4gd/1653665775000/09075024321638582299/09075024321638582299/1ofoytyt2OVA8yA3D3lgKQOhkVHc3fiZM?e=download&ax=ACxEAsZ1Th9G1xNNHQKZ7ZUsiQwcNeaAlEnJUBvesTS0uC6ctu7r-WUJFs3Km5OJDA740rdVKux9-aSelg81HGvS-Af__bUYAUMuwXzq0ls76S_yz5dqXd70BR6ahKy1z1i0zp4ywMY4XTmd9XDeiczoKa336RZMUfHLVYzIPHMlsNWwY0hBdu-ePC6XCLZnk3fJMoqdB0ZvSfKnd8x7Z8OpUrkATDzu8FKAQMipUyYPBgESIWk9GiaaYziEUaYdvw_sdw68mGB16OgHEBAH3ZIO6Xwzy8rDjhRfluSMUJrHC4aLUrydpVIW00IK8GxVib_oGLuoC6qwQn7sMg9Xy7gyWMi_Ma7ODpL5byLcM1uaEWVWl18onCih2VVQEFlGUEuV5mbqDFcQjA-3iQlXLrn_tVsolyBdQwzziV9fG-p9Muiliq7xxF-oGbysZttgQPO2xnvVtUYCsivlLXfTBesbtAT9LjGnpJKhavHLsa29DgmYXIZHYN7vmBsL5KdsvoW2zqjVggpnLQqNZK1rHyNzwiXpwDAxoL1k1UWdn3jbctZagsRDfiR0wwEYpKtk6uXGSMVQ_6kw_EOk3WDBPwrFSgCq_WfbeiSzJYUOneV6mBQlHmti884KLTE5ziXc7Fcinzb7pfyFw-YRxyBZyt8ZSiAz0zIkNMYbIGBNbFMeN9Yw6ml9NQD8jzt7r6crovMMUMAncpIeTq60c1ztknShdffKMrLNHLynyvxo7KWRVSRGPnZ1&authuser=0)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## How to Run the App after clonning
 
-### `npm run build`
+Do `npm install`
+then `npm start`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contraints
+I couldn't write test for the app, due to time constraints. Also didn't have much time to modularize components and comments, but I was able to complete all the functionalities.
